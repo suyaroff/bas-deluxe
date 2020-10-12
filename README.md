@@ -1,4 +1,4 @@
-# bas-deluxe
+# [bas-deluxe](https://github.com/suyaroff/bas-deluxe/)
 Верстка интернет магазина Ванны, душевые кабины. 
 
 Демо [Главная](https://bas-deluxe.netlify.app) | 
